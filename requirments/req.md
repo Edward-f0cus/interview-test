@@ -2,7 +2,7 @@
  [TOC]
 
 ## 时序图
-![Alt text](./面试系统需求1.1.jpg)
+![Alt text](./req.jpg)
 
 ## 需求
 > 注： 实现RESTful， 增删改查均可通过REST API实现
